@@ -16,15 +16,9 @@ I highly recommend training your own tesseract lang as it can vastly improve OCR
 
 ### Example output for 100 photos
 
-<figure>
-    <img src="showcase_imgs/res1.png" alt="console_output">
-    <figcaption style="text-align: center;">output</figcaption>
-</figure>
+![console_output](showcase_imgs/res1.PNG)
 
-<figure>
-    <img src="showcase_imgs/res2.png" alt="results.json">
-    <figcaption style="text-align: center;">output</figcaption>
-</figure>
+![results.json](showcase_imgs/res2.PNG)
 
 ### Setup
 
