@@ -13,9 +13,13 @@ However, this public repo uses default 'eng' lang instead, due to licence limita
 I highly recommend training your own tesseract lang as it can vastly improve OCR's accuracy.
 
 ### Example output for 100 photos
-![console_output](showcase_imgs/res1.png)
+<figure>
+    <img src="showcase_imgs/res1.png" alt="console_output">
+</figure>
 
-![results.json](showcase_imgs/res2.png)
+<figure>
+    <img src="showcase_imgs/res2.png" alt="results.json">
+</figure>
 
 ### Setup
 - Packages:
