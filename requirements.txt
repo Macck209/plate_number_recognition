@@ -1,0 +1,7 @@
+opencv-python~=4.12.0.88
+numpy~=2.2.6
+easyocr~=1.7.2
+torch~=2.7.1+cu126
+pytesseract~=0.3.13
+imutils~=0.5.4
+ultralytics~=8.3.167

@@ -1,0 +1,10 @@
+.venv/
+.idea/
+.vscode/
+__pycache__/
+output/
+trash/
+training_data/
+results.json
+licence_plates_lang.traineddata
+data/
